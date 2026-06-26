@@ -438,15 +438,3 @@ Through this project, I gained practical experience in:
 * Pagination & Filtering
 * Search APIs
 * Logging & Monitoring
-
----
-
-# 👨‍💻 Author
-
-**Satish**
-
-Backend Developer | Go | Gin | GORM | PostgreSQL
-
----
-
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
