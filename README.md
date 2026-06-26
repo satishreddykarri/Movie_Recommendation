@@ -351,7 +351,7 @@ Recommendation logic:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/satishreddykari/Movie_Recommendation.git
+git clone https://github.com/satishreddykarri/Movie_Recommendation.git
 ```
 
 ---
