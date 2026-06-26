@@ -416,18 +416,3 @@ Through this project, I gained practical experience in:
 * REST API Development
 * SQL Joins & Aggregation
 * Layered Backend Development
-
----
-
-# 📌 Future Improvements
-
-* JWT Authentication
-* Role-Based Authorization
-* Swagger Documentation
-* Docker Support
-* Unit Testing
-* Integration Testing
-* Redis Caching
-* Pagination & Filtering
-* Search APIs
-* Logging & Monitoring
