@@ -1,12 +1,5 @@
 # 🎬 Movie Recommendation System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Gin-Web%20Framework-00ADD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GORM-ORM-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Architecture-Clean-success?style=for-the-badge" />
-</p>
 
 A production-style **Movie Recommendation System** built using **Go**, **Gin**, **GORM**, and **PostgreSQL** following **Clean Architecture**, **Repository Pattern**, **Dependency Injection**, and **Layered Architecture**.
 
